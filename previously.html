@@ -431,7 +431,9 @@
           else opt[j].checked = false;
         }
         // if a question is not attempted
-        if (anArray.length < i) anArray.push("Unattempted");
+        if (!opt.checked) {
+          anArray.push("No Answer");
+        }
       }
       // if (i == anArray.length){
       // clicker[1].style.color = 'gray'
