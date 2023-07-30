@@ -1,0 +1,84 @@
+td {
+  border: solid black;
+  /* border-left: solid 1px; */
+  /* border-right: solid 0.5; */
+  border-bottom: solid 0.5px;
+  padding: 0.5em 0;
+  border-collapse: collapse;
+  padding: 0.5rem;
+  width: 100px;
+  text-align: center;
+  border-color: chocolate;
+  /* color: midnightblue; */
+}
+th {
+  border: solid black;
+  border-left: solid 1px;
+  border-right: solid 0.5px;
+  border-bottom: solid 0.5px;
+  padding: 0 0.5 em;
+  border-collapse: collapse;
+  width: 100px;
+  text-align: center;
+  border-color: chocolate;
+  color: black;
+}
+table {
+  /* border-spacing: unset; */
+  border: 2px solid brown;
+  width: 40rem;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+#timer {
+  margin-left: 6em;
+}
+
+ol {
+  list-style-type: upper-alpha;
+}
+
+div {
+  margin-left: 4rem;
+  width: 25rem;
+}
+
+button {    
+  width: 5rem;
+  height: 2em;
+  font-size: 1em;
+  /* color: deepskyblue; */
+  margin-left: 1rem;
+  border-radius: 3px;
+
+  
+}
+#bfirst {
+  margin-left: 4rem;
+}
+
+
+#sub {
+  margin-top:2rem;
+}
+span {
+  float: left;
+  font-weight: bold;
+  /* margin-left: 4rem; */
+}
+
+h4 {
+  margin-left: 1.5em;
+  
+}
+h5 {
+    width: 15rem;
+    margin-left: 6rem;
+
+}
+
+sub {
+  margin-left: 7rem;
+}
+
