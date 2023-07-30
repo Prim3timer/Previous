@@ -6,3 +6,5 @@ let i = 0;
 let review = 0;
 let anArray = [];
 
+let board = document.getElementById("canvas");
+
